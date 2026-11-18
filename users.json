@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "role": "admin",
+    "active": true,
+    "createdAt": "2025-01-15T09:30:00Z",
+    "address": { "city": "New York", "country": "USA" },
+    "skills": ["Java", "Spring Boot", "AWS"]
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "role": "editor",
+    "active": true,
+    "createdAt": "2025-02-03T14:12:00Z",
+    "address": { "city": "London", "country": "UK" },
+    "skills": ["Python", "SQL"]
+  },
+  {
+    "id": 3,
+    "name": "Carol White",
+    "email": "carol.white@example.com",
+    "role": "viewer",
+    "active": false,
+    "createdAt": "2025-03-21T08:45:00Z",
+    "address": { "city": "Toronto", "country": "Canada" },
+    "skills": ["JavaScript", "React"]
+  },
+  {
+    "id": 4,
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "role": "editor",
+    "active": true,
+    "createdAt": "2025-04-10T16:20:00Z",
+    "address": { "city": "Sydney", "country": "Australia" },
+    "skills": ["Go", "Kubernetes", "Docker"]
+  },
+  {
+    "id": 5,
+    "name": "Priya Sharma",
+    "email": "priya.sharma@example.com",
+    "role": "admin",
+    "active": true,
+    "createdAt": "2025-05-05T11:00:00Z",
+    "address": { "city": "Bangalore", "country": "India" },
+    "skills": ["Java", "Microservices", "Kafka"]
+  },
+  {
+    "id": 6,
+    "name": "Lukas Müller",
+    "email": "lukas.mueller@example.com",
+    "role": "viewer",
+    "active": true,
+    "createdAt": "2025-06-18T13:35:00Z",
+    "address": { "city": "Berlin", "country": "Germany" },
+    "skills": ["C#", ".NET"]
+  },
+  {
+    "id": 7,
+    "name": "Sofia Garcia",
+    "email": "sofia.garcia@example.com",
+    "role": "editor",
+    "active": false,
+    "createdAt": "2025-07-22T10:05:00Z",
+    "address": { "city": "Madrid", "country": "Spain" },
+    "skills": ["TypeScript", "Node.js", "MongoDB"]
+  },
+  {
+    "id": 8,
+    "name": "Kenji Tanaka",
+    "email": "kenji.tanaka@example.com",
+    "role": "viewer",
+    "active": true,
+    "createdAt": "2025-08-30T07:50:00Z",
+    "address": { "city": "Tokyo", "country": "Japan" },
+    "skills": ["Rust", "Linux"]
+  }
+]
